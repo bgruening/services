@@ -62,7 +62,7 @@ Workshops can optionally be restricted to a specific list of participants. When 
   
 This shared storage can be used by instructors and tutors to prepare environments, kernels, and data for the workshop.  
   
-Participants are identified by their **email adress**. If a user is unsure which email adress is associated with their account, they can visit [https://hub.nfdi-jupyter.de/hub/login?next=/hub/api/user](https://hub.nfdi-jupyter.de/hub/login?next=/hub/api/user){:target="_blank"}, login and look for a group name starting with the prefix `"email:"`. 
+Participants are identified by their **email adress**. If a user is unsure which email adress is associated with their account, they can visit [https://hub.nfdi-jupyter.de/hub/login?next=/hub/api/user_email](https://hub.nfdi-jupyter.de/hub/login?next=/hub/api/user_email){:target="_blank"}, login and see their email adress. 
 
 You can also configure the access level to the shared storage, allowing participants either **read-only** access or **read-write** access, depending on the requirements of your workshop.
   
