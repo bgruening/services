@@ -115,6 +115,8 @@ nav:
     - Architecture: providers/architecture.md
     - Installation: providers/installation.md
     - Configuration: providers/configuration.md
+  - Integrations:
+    - Serviceuser API: integrations/serviceusers/index.md
   - JupyterHubs within NFDI:
     - Overview: hubs/index.md
     - Statistics about the Jupyter services collected: hubs/stats.md
